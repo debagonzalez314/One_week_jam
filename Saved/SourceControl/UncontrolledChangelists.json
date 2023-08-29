@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Brendan Barry/Documents/Unreal Projects/One_week_jam/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Brendan Barry/Documents/Unreal Projects/One_week_jam/Content/Jam_map.umap"
+			]
+		}
+	]
+}
